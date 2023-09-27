@@ -1,7 +1,7 @@
 import random
 import os
 # set final score
-fscore = 100000
+score = 100000
 # loading screen
 print("            ")
 print("            ")
